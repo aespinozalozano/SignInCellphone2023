@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SignInCellphone2023</string>
+
+    <string name="ingresa1">Ingresa tu número de teléfono</string>
+    <string name="hintNumber">999 999 999</string>
+    <string name="btnVeriNum">Verificar número de teléfono</string>
+
 </resources>
